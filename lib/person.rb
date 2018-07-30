@@ -3,7 +3,7 @@
 
 class Person 
   
-  def tallk
+  def talk
     
     puts "Hello World!"
   

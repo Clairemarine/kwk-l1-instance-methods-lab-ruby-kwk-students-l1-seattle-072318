@@ -11,7 +11,7 @@ class Dog
   
  end 
  
- def sit 
+ def talk
    
    puts "The Dog is sitting"
    

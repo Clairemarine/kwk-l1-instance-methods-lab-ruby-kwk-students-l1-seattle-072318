@@ -3,16 +3,16 @@
 
 class Person 
   
-  def bark
+  def tallk
     
-    puts "Woof!"
+    puts "Hello World!"
   
   
  end 
  
  def sit 
    
-   puts "The Dog is sitting"
+   puts "The Person is walking"
    
  end 
 end 
